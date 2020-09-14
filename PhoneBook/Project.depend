@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1545903131 source:d:\college\programming\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545904925 source:d:\college\programming\project 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"load.h"
+	"search.h"
+	"add.h"
+	"remove.h"
+	"edit.h"
+	"display.h"
+	"save.h"
+
+1545904777 d:\college\programming\project 2\load.h
+
+1545903994 d:\college\programming\project 2\search.h
+
+1545903780 d:\college\programming\project 2\add.h
+
+1545903817 d:\college\programming\project 2\remove.h
+
+1545903871 d:\college\programming\project 2\edit.h
+
+1545903917 d:\college\programming\project 2\display.h
+
+1545904813 d:\college\programming\project 2\save.h
+
+1545945283 source:d:\college\programming\project (final)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"load.h"
+	"search.h"
+	"add.h"
+	"remove.h"
+	"edit.h"
+	"display.h"
+	"save.h"
+
+1545904777 d:\college\programming\project (final)\load.h
+
+1545903994 d:\college\programming\project (final)\search.h
+
+1545903780 d:\college\programming\project (final)\add.h
+
+1545903817 d:\college\programming\project (final)\remove.h
+
+1545903871 d:\college\programming\project (final)\edit.h
+
+1545903917 d:\college\programming\project (final)\display.h
+
+1545904813 d:\college\programming\project (final)\save.h
+
